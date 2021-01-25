@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 int main(){
-	printf("My height\n170\nMy weight\n68.600000");
+	printf("My hometown\nFlowering mountain");
 }
